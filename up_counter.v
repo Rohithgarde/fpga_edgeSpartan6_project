@@ -1,1 +1,0 @@
-module upcnt(clk, rst);
