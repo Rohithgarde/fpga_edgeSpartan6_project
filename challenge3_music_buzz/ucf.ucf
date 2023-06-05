@@ -1,0 +1,8 @@
+NET "a" LOC=P44;
+NET "b" LOC=P41;
+NET "c" LOC=P40;
+NET "d" LOC=P45;
+NET "rb" LOC=P43;
+NET "clkin" LOC=P84;
+
+NET "bzin" LOC=P85;
